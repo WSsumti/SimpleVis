@@ -4,3 +4,5 @@ Simple Visualization for Ramen Rating Analysis. This is a Visualization Project 
 No need to set up. We can launch after cloning. 
 ## Launching
 Please set your port to :5500 to gain access from CORS
+## Data
+Will update data migrations later!
