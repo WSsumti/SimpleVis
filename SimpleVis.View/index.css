@@ -1,0 +1,22 @@
+#chart {
+  width: 90vw;
+  height: 70vh;
+  margin: 20px auto;
+  background-color: #f5f5f5;
+  padding: 20px;
+  overflow-y: auto;
+}
+rect:hover {
+  fill: orange;
+}
+.slice:hover {
+  fill: #dbd7d2;
+}
+body {
+  overflow: hidden;
+}
+.nav {
+  height: 8vh;
+  background-color: #cfcfcf;
+  width: 100vw;
+}
